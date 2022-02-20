@@ -1,6 +1,18 @@
 body {
   text-align: center;
-  color: deeppink;
+  color: grey;
   font-family: "Arial";
-  background-color: gray;
+  font-size: 16px;
+}
+
+#container {
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+}
+
+#container h1 {
+  font-size: 20px;
 }
